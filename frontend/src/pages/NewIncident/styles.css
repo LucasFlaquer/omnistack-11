@@ -43,11 +43,3 @@
   margin-top: 8px;
 }
 
-.new-incident-container .content form .input-group {
-  display: flex;
-}
-
-.new-incident-container .content form .input-group input + input {
-  margin-left: 8px;
-}
-
